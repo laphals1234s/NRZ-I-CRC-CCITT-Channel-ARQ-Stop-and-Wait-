@@ -35,7 +35,7 @@ matplotlib==3.8.4
 Run:
 ```bash
 pip install -r requirements.txt
-streamlit run btl_cstt_nrzi_crc_abnc_uniform_v4.py
+python -m streamlit run btl_cstt_nrzi_crc_abnc_uniform_v6.py
 ```
 Open the URL that Streamlit prints in your terminal.
 
@@ -94,7 +94,7 @@ matplotlib==3.8.4
 Chạy:
 ```bash
 pip install -r requirements.txt
-streamlit run btl_cstt_nrzi_crc_abnc_uniform_v4.py
+python -m streamlit run btl_cstt_nrzi_crc_abnc_uniform_v6.py
 ```
 Mở đường dẫn Streamlit in ra trong terminal.
 
