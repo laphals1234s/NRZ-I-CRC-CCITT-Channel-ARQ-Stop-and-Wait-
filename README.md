@@ -1,6 +1,6 @@
 # NRZI + CRC + Bounded-Noise Demo (Streamlit)
 
-**Live demo:** https://btlcsttnrzicrcabncuniformv4py-exlmbte9pbtckowppysxgo.streamlit.app/
+**Live demo:** https://btlcsttnrzicrcabncuniformv6py-xkigj4ek45z5lv4mn224tz.streamlit.app/
 
 A tiny Streamlit app to **visualize a digital link** at a classroom level: NRZ‑I line coding, a **bounded uniform noise** channel, and **CRC‑CCITT** error checking. It’s meant to help students and instructors *see* how data turns into a waveform, how noise may flip bits, and how CRC catches corrupted frames.
 
@@ -59,7 +59,7 @@ Open the URL that Streamlit prints in your terminal.
 
 # (VI) Mô phỏng NRZI + CRC + Kênh nhiễu biên (Streamlit)
 
-**Bản chạy trực tiếp:** https://btlcsttnrzicrcabncuniformv4py-exlmbte9pbtckowppysxgo.streamlit.app/
+**Bản chạy trực tiếp:** https://btlcsttnrzicrcabncuniformv6py-xkigj4ek45z5lv4mn224tz.streamlit.app/
 
 Ứng dụng Streamlit nhỏ gọn để **minh hoạ liên kết số** ở mức *lý thuyết lớp học*: mã đường **NRZ‑I**, kênh **nhiễu đều trong một khoảng cố định**, và **CRC‑CCITT**. Mục tiêu là giúp sinh viên/giảng viên *nhìn thấy* quá trình dữ liệu → dạng sóng, nhiễu làm lật bit, và CRC phát hiện khung lỗi.
 
