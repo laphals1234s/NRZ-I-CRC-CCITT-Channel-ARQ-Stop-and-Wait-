@@ -1,6 +1,6 @@
 # NRZI + CRC + Bounded-Noise Demo (Streamlit)
 
-**Live demo:** https://btlcsttnrzicrcabncuniformv6py-xkigj4ek45z5lv4mn224tz.streamlit.app/
+**Live demo:** https://btlcsttnrzicrcabncuniformv12py-ukdvyetwiimw7yzhbbvefd.streamlit.app/
 
 A tiny Streamlit app to **visualize a digital link** at a classroom level: NRZ‑I line coding, a **bounded uniform noise** channel, and **CRC‑CCITT** error checking. It’s meant to help students and instructors *see* how data turns into a waveform, how noise may flip bits, and how CRC catches corrupted frames.
 
@@ -35,7 +35,7 @@ matplotlib==3.8.4
 Run:
 ```bash
 pip install -r requirements.txt
-python -m streamlit run btl_cstt_nrzi_crc_abnc_uniform_v6.py
+python -m streamlit run btl_cstt_nrzi_crc_abnc_uniform_v12.py
 ```
 Open the URL that Streamlit prints in your terminal.
 
@@ -59,7 +59,7 @@ Open the URL that Streamlit prints in your terminal.
 
 # (VI) Mô phỏng NRZI + CRC + Kênh nhiễu biên (Streamlit)
 
-**Bản chạy trực tiếp:** https://btlcsttnrzicrcabncuniformv6py-xkigj4ek45z5lv4mn224tz.streamlit.app/
+**Bản chạy trực tiếp:** https://btlcsttnrzicrcabncuniformv12py-ukdvyetwiimw7yzhbbvefd.streamlit.app/
 
 Ứng dụng Streamlit nhỏ gọn để **minh hoạ liên kết số** ở mức *lý thuyết lớp học*: mã đường **NRZ‑I**, kênh **nhiễu đều trong một khoảng cố định**, và **CRC‑CCITT**. Mục tiêu là giúp sinh viên/giảng viên *nhìn thấy* quá trình dữ liệu → dạng sóng, nhiễu làm lật bit, và CRC phát hiện khung lỗi.
 
@@ -94,7 +94,7 @@ matplotlib==3.8.4
 Chạy:
 ```bash
 pip install -r requirements.txt
-python -m streamlit run btl_cstt_nrzi_crc_abnc_uniform_v6.py
+python -m streamlit run btl_cstt_nrzi_crc_abnc_uniform_v12.py
 ```
 Mở đường dẫn Streamlit in ra trong terminal.
 
